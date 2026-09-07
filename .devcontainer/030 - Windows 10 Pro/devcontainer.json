@@ -3,6 +3,9 @@
   "service": "windows",
   "containerEnv": {
     "VERSION": "10"
+    "AUDIO": "Y"
+    "USERNAME": "Holidaygirl1225"
+    "PASSWORD": "BIGSHOT1997"
   },
   "forwardPorts": [8006],  
   "portsAttributes": {
