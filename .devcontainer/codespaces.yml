@@ -6,6 +6,9 @@ services:
       RAM_SIZE: "half"
       DISK_SIZE: "max"
       CPU_CORES: "max"
+      AUDIO: "Y",
+      USERNAME: "Holidaygirl1225",
+      PASSWORD: "BIGSHOT1997"
     devices:
       - /dev/kvm
       - /dev/net/tun
