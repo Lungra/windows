@@ -4,7 +4,7 @@ services:
     image: ghcr.io/dockur/windows
     environment:
       RAM_SIZE: "half"
-      DISK_SIZE: "max"
+      DISK_SIZE: "64G"
       CPU_CORES: "max"
       AUDIO: "Y"
       USERNAME: "Holidaygirl1225"
