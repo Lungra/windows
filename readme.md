@@ -73,7 +73,7 @@ For a complete graphical desktop experience, see [WinBoat](https://winboat.app),
 
 ##### GitHub Codespaces:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sidthecat454/windows)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Lungra/windows)
 
 ## Requirements ⚙️
 
